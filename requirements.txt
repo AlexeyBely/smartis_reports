@@ -1,0 +1,5 @@
+pydantic==1.9.0
+uvloop==0.16.0
+flake8==4.0.1
+aiohttp==3.8.3
+backoff==2.2.1
